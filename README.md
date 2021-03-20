@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @khjcph. Engineering at KarnovGroup.
 - 👀 Decentralization and distributed systems. Small data.
 - 🌱 Rust, React, Economics.
-- 💞️ FluchtpunktIO
+- 💞️ Fluchtpunkt/IO
 - 📫 @khjcph on Telegram.

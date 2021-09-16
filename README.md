@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @khjcph. Engineering at KarnovGroup.
+- 👋 Hi, I’m @khjcph. Engineering at Lunar.
 - 👀 Decentralization | Small data.
 - 🌱 Solana | Rust, React, Economics.
 - 💞️ Fluchtpunkt |> i0

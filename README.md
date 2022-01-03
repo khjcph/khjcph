@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @khjcph. Engineering at Lunar.
 - 👀 Decentralization | Small data.
-- 🌱 Solana | Rust, React, Economics.
+- 🌱 Solana | GO, Rust, React, Economics.
 - 💞️ Fluchtpunkt |> i0
 - 📫 @khjcph on Telegram.

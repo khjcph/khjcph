@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @khjcph. Engineering at Lunar.
 - 👀 Decentralization | Small data.
-- 🌱 Solana | GO, Rust, React, Economics.
+- 🌱 GO, Rust, React, Economics. 
+- 🌱 Event driven archs., declarative FEs.
 - 💞️ Fluchtpunkt |> i0
 - 📫 @khjcph on Telegram.

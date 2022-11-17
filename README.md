@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khjcph. Engineering at Lunar.
 - 👀 Decentralization | Small data.
 - 🌱 GO, Rust, React, Economics. 
-- 🌱 Event driven archs., declarative FEs.
+- 🌱 Event driven archs., Declarative FEs.
 - 💞️ Fluchtpunkt |> i0
 - 📫 @khjcph on Telegram.
